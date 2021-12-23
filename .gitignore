@@ -1,0 +1,10 @@
+*.pyc
+*.db
+.DS_Store
+.idea
+users/_pycache_
+users/_pycache_
+posts/_pycache_
+tests/.pytest_cache
+.pytest_cache
+venv

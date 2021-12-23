@@ -1,0 +1,7 @@
+[run]
+omit =
+    */migrations/*
+    usr/*
+    */site-packages/*
+[report]
+show_missing = True
